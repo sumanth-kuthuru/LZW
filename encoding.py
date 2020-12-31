@@ -1,5 +1,8 @@
-# Name : Sumanth Kuthuru
-# Student ID : 801166362
+# -*- coding: utf-8 -*-
+"""
+LZW compression
+@author: Sumanth Kuthuru
+"""
 
 import struct
 import sys
